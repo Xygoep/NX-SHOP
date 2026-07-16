@@ -1,0 +1,6 @@
+{
+  "name": "NX SHOP",
+  "description": "Современный интернет-магазин с витриной товаров, удобным поиском и панелью администратора.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
